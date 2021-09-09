@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omar\\source\\ejemplos\\Net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj": {}
+    "C:\\Users\\imartinez\\source\\ejemplos\\net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omar\\source\\ejemplos\\Net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj": {
+    "C:\\Users\\imartinez\\source\\ejemplos\\net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\source\\ejemplos\\Net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj",
+        "projectUniqueName": "C:\\Users\\imartinez\\source\\ejemplos\\net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj",
         "projectName": "Ejercicio_Imagenes",
-        "projectPath": "C:\\Users\\Omar\\source\\ejemplos\\Net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj",
-        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\source\\ejemplos\\Net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\obj\\",
+        "projectPath": "C:\\Users\\imartinez\\source\\ejemplos\\net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\Ejercicio_Imagenes.csproj",
+        "packagesPath": "C:\\Users\\imartinez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imartinez\\source\\ejemplos\\net5\\Ejercicio_Imagenes\\Ejercicio_Imagenes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\imartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
