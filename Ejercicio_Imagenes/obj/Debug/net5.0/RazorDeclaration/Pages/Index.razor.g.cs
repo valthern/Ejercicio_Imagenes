@@ -91,14 +91,17 @@ using Ejercicio_Imagenes.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 10 "C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\Pages\Index.razor"
+#line 12 "C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\Pages\Index.razor"
       
     public string UrlImagen { get; set; }
 
-    public void OnChange()
-        {
-            UrlImagen= 
-        }
+    //Img imagen;
+    InputText txtImg;
+
+    private void OnChange()
+    {
+        UrlImagen = txtImg.Value;
+    }
 
 #line default
 #line hidden
