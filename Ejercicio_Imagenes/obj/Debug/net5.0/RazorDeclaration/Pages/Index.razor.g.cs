@@ -91,7 +91,7 @@ using Ejercicio_Imagenes.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\Pages\Index.razor"
+#line 15 "C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\Pages\Index.razor"
       
     public string UrlImagen { get; set; }
 
@@ -106,6 +106,7 @@ using Ejercicio_Imagenes.Shared;
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime js { get; set; }
     }
 }
 #pragma warning restore 1591
