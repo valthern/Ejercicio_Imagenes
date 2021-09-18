@@ -1030,7 +1030,6 @@ C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\bi
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
-C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.csproj.AssemblyReference.cache
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.AssemblyInfoInputs.cache
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.AssemblyInfo.cs
@@ -1266,3 +1265,4 @@ C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\ob
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.dll
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\ref\Ejercicio_Imagenes.dll
 C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.pdb
+C:\Users\imartinez\source\ejemplos\net5\Ejercicio_Imagenes\Ejercicio_Imagenes\obj\Debug\net5.0\Ejercicio_Imagenes.csproj.AssemblyReference.cache

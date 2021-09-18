@@ -95,14 +95,6 @@ using Ejercicio_Imagenes.Shared;
       
     public string UrlImagen { get; set; }
 
-    //Img imagen;
-    InputText txtImg;
-
-    private void OnChange()
-    {
-        UrlImagen = txtImg.Value;
-    }
-
 #line default
 #line hidden
 #nullable disable

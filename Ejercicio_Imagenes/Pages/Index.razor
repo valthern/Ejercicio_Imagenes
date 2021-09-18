@@ -6,7 +6,7 @@
 <h1>Ejercicio de imágenes!</h1>
 
 <label for="txtImg">Url de la imágen:</label>
-<input type="text" id="txtImg" name="txtImg" @onchange="OnChange" />
+<input @bind="UrlImagen" />
 <br />
 <Img UrlImagen="@UrlImagen" />
 
@@ -14,12 +14,4 @@
 
 @code{
     public string UrlImagen { get; set; }
-
-    //Img imagen;
-    InputText txtImg;
-
-    private void OnChange()
-    {
-        UrlImagen = txtImg.Value;
-    }
 }
